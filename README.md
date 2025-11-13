@@ -1,2 +1,2 @@
-# Hardware_KIT_ARDUINO
+# KIT_ARDUINO_V1.0
 update
